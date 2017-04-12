@@ -1,7 +1,9 @@
 <scheme name="MrZuraOneDark" version="142" parent_scheme="Default">
   <option name="FONT_SCALE" value="1.0" />
-  <option name="LINE_SPACING" value="1.3" />
-  <option name="EDITOR_FONT_SIZE" value="12" />
+  <option name="LINE_SPACING" value="1.4" />
+  <option name="EDITOR_FONT_SIZE" value="14" />
+  <option name="CONSOLE_FONT_NAME" value="Menlo" />
+  <option name="CONSOLE_FONT_SIZE" value="12" />
   <option name="CONSOLE_LINE_SPACING" value="1.0" />
   <option name="EDITOR_FONT_NAME" value="Menlo" />
   <colors>
@@ -16,7 +18,7 @@
     <option name="LINE_NUMBERS_COLOR" value="81969a" />
     <option name="METHOD_SEPARATORS_COLOR" value="464f53" />
     <option name="RIGHT_MARGIN_COLOR" value="666666" />
-    <option name="SELECTED_INDENT_GUIDE" value="333333" />
+    <option name="SELECTED_INDENT_GUIDE" value="e06c75" />
     <option name="SELECTED_TEARLINE_COLOR" value="ffffff" />
     <option name="SELECTION_BACKGROUND" value="3f4451" />
     <option name="SELECTION_FOREGROUND" value="" />
@@ -393,6 +395,12 @@
     <option name="INJECTED_LANGUAGE_FRAGMENT">
       <value>
         <option name="BACKGROUND" value="292929" />
+      </value>
+    </option>
+    <option name="INLINE_PARAMETER_HINT">
+      <value>
+        <option name="FOREGROUND" value="f6aec9" />
+        <option name="BACKGROUND" value="4d4f51" />
       </value>
     </option>
     <option name="JS.ATTRIBUTE">
